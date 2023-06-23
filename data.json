@@ -1,0 +1,105 @@
+
+{
+    "arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Capuchino",
+            "size": "500 Gram",
+            "harga": "200.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Espresso",
+            "size": "100 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/latte_biasa.jpg",
+            "nama": "Latte",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "100 Gram",
+            "harga": "300.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+        ],
+        "liberika": [
+          {
+            "foto": "images/produk/liberika.jpg",
+            "nama": "Liberika lumajang",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=kopi+liberika+lumajang&client=ms-android-xiaomi-rvo2&sa=X&biw=393&bih=767&tbm=shop&sxsrf=APwXEdfmUxqoDvqE762d48AMk9w1hc5FFA%3A1687505803619&ei=i0uVZLmJJb6M4-EPkaGfyAo&oq=kopi+liberika+lumaja&gs_lcp=Cg5tb2JpbGUtc2gtc2VycBABGAAyBQghEKABMgUIIRCgATIFCCEQoAE6CggAEIoFELADEEM6CAgAEIAEELADOgkIABAHEB4QsAM6BQgAEIAEOgYIABAWEB46BwghEKABEApQuAhY3BlgzyBoAHAAeACAAcoCiAHMDpIBBzAuMy40LjGYAQCgAQGqARJtb2JpbGUtc2gtd2l6LXNlcnDAAQHIAQQ&sclient=mobile-sh-serp"
+                },
+          {
+            "foto": "images/produk/liberika2.jpg",
+            "nama": "Liberika Meranti",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=kopi+liberika+meranti&client=ms-android-xiaomi-rvo2&sa=X&biw=393&bih=767&tbm=shop&sxsrf=APwXEdfR_zqAB6OeEedQGMsUfYRGfnos0Q%3A1687505946116&ei=GkyVZPW2Bov1juMPwLGIWA&oq=kopi+liberika+&gs_lcp=Cg5tb2JpbGUtc2gtc2VycBABGAEyBAgjECcyBQgAEIAEMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgUIIRCgATIFCCEQoAEyBQghEKABUKsIWKgPYMYnaABwAHgAgAGaAogBsg6SAQUwLjQuNZgBAKABAaoBEm1vYmlsZS1zaC13aXotc2VycMABAQ&sclient=mobile-sh-serp"
+                }
+         ],
+         "non_coffee": [
+           {
+             "foto": "images/produk/red_velvet.jpg",
+             "nama": "Red Velvet",
+             "size": "100 Gram",
+             "harga": "500.000",
+             "link": "https://www.google.com/search?q=red+velvet&client=ms-android-xiaomi-rvo2&sa=X&biw=393&bih=767&tbm=shop&sxsrf=APwXEdev8Ro91yQmkLD0sLXgT5-7a8OtfQ%3A1687501935778&ei=bzyVZLiyLrOWseMP-fubsAE&oq=red+velvet&gs_lcp=Cg5tb2JpbGUtc2gtc2VycBADMgQIIxAnMgQIIxAnMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEOggIABCABBCwAzoJCAAQBxAeELADOgcIABAYEIAEOgYIABAWEB5Qs4UFWOCNBWCzlgVoAnAAeACAAa0CiAGGD5IBBzAuNS4zLjGYAQCgAQGqARJtb2JpbGUtc2gtd2l6LXNlcnDAAQHIAQI&sclient=mobile-sh-serp"
+                        },
+           {
+             "foto": "images/produk/macha.jpg",
+             "nama": "Macha",
+             "size": "150 Gram",
+             "harga": "150.000",
+             "link": "https://www.google.com/search?client=ms-android-xiaomi-rvo2&sxsrf=APwXEddGcnkICCSR-JmvvwhqGLtICJVnfg:1687502265947&q=macha&tbm=shop&sa=X&ved=2ahUKEwjr9_no49j_AhXccmwGHetsAWQQ0pQJegQICxAB&biw=393&bih=767&dpr=2.75"
+             },  
+           {
+              "foto": "images/produk/ice_blend.jpg",
+              "nama": "Ice Coffee Blend",
+              "size": "150 Gram",
+              "harga": "150.000",
+              "link": "https://www.google.com/search?q=coffee+ice+blend&client=ms-android-xiaomi-rvo2&hl=id&biw=393&bih=767&tbm=isch&sxsrf=APwXEddA07n3GuSvZ3Yc91up_BNZXS06FA:1687502705217&source=lnms&sa=X&ved=0ahUKEwi0yrS65dj_AhUf4DgGHSeWCHUQ0pQJCCU"
+            },
+           {
+             "foto": "images/produk/fruit_tea.jpg",
+             "nama": "Fruit Tea",
+             "size": "150 Gram",
+             "harga": "150.000",
+             "link": "https://www.google.com/search?q=fruit+tea+orange&client=ms-android-xiaomi-rvo2&sa=X&biw=393&bih=767&tbm=shop&sxsrf=APwXEdcnaxUMij3666gH468NfbxnwOWAPA%3A1687502994526&ei=kkCVZKOxH9jt4-EP5YSi2Ao&oq=fruit+tea+orange&gs_lcp=Cg5tb2JpbGUtc2gtc2VycBADMggIABAWEB4QGDIKCCEQFhAeEBgQHTIKCCEQFhAeEBgQHToNCAAQCBAeEBgQsAMQCjoLCAAQCBAeEBgQsAM6CAgAEKIEELADOgQIIxAnOgUIABCABDoKCAAQFhAeEBgQDzoGCAAQFhAeOgUIIRCgAToHCCEQoAEQClC_BlivF2DDG2gAcAB4AIABgAOIAfgUkgEHMC4zLjYuMpgBAKABAaoBEm1vYmlsZS1zaC13aXotc2VycMABAcgBAw&sclient=mobile-sh-serp"
+           },
+           {
+             "foto": "images/produk/ice_chocolate.jpg",
+             "nama": "Ice Chocolate",
+             "size": "150 Gram",
+             "harga": "150.000",
+             "link": "https://www.google.com/search?client=ms-android-xiaomi-rvo2&sxsrf=APwXEdfJ-i8XH4j2rJpXRC8ESq7ZHDxalw:1687503982837&q=ice+chocolate&tbm=shop&sa=X&ved=2ahUKEwicudCb6tj_AhXM2DgGHe2JA3YQ0pQJegQIEBAB&biw=393&bih=767&dpr=2.75"
+           },
+           {
+             "foto": "images/produk/sup_buah.jpg",
+             "nama": "Sup Buah Segar",
+             "size": "150 Gram",
+             "harga": "150.000",
+             "link": "https://www.google.com/search?client=ms-android-xiaomi-rvo2&sxsrf=APwXEdeQ1Yqc0cj_rwbC7XgddrM-NlfPkg:1687504491724&q=sop+buah&tbm=shop&sa=X&ved=2ahUKEwje0KSO7Nj_AhXba2wGHQU4AhAQ0pQJegQIBxAB&biw=393&bih=767&dpr=2.75"
+           }
+          
+        
+    ]
+}
+
